@@ -1,6 +1,6 @@
 # BESS_DC_DC_Bidirectional
 
-# DC-to-DC Power Converter for Microgrid-Based BESS
+# DC-to-DC Bidirectional Power Converter for Microgrid-Based BESS
 
 This project models a DC-to-DC power converter integrated with a lithium-ion battery energy storage system (BESS) for microgrid applications, focusing on voltage and current control using PWM-based switching.
 
