@@ -6,7 +6,7 @@ This project models a DC-to-DC power converter integrated with a lithium-ion bat
 
 ## Overview
 
-The system uses a Birectional DC-DC converter with MOSFETs, controlled by PI controllers to manage the charging and discharging of the lithium-ion battery. The system simulates the battery’s State of Charge (SOC) and ensures voltage stability under varying load conditions.
+The system uses a Bidirectional DC-DC converter with MOSFETs, controlled by PI controllers to manage the charging and discharging of the lithium-ion battery. The system simulates the battery’s State of Charge (SOC) and ensures voltage stability under varying load conditions.
 
 ## Key Features
 - Charging Mode: Battery charges when the switch is on. SOC increases slowly, and the converter maintains stable voltage (25.98V) with regulated current.
